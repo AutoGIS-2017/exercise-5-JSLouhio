@@ -12,11 +12,11 @@ This week we will practice how to create static and interactive maps in Python.
 
 ## Sections
 
- - [Problem 0: Feedback for the first half of the course in Period II](#problem0-feedback-for-the-first-half-of-the-course-inf-period-ii)
+ - [Problem 0: Feedback for the first half of the course in Period II](#problem-0-feedback-for-the-first-half-of-the-course-in-period-ii)
  - [Instructions for storing the maps](#instructions-for-storing-the-maps)
  - [Problem 1: Visualize a static map with multiple layers on it](#problem-1-visualize-a-static-map-with-multiple-layers-on-it)
- - [Problem 2: Visualize an interactive Bokeh-map](#)
- - [Problem 3: Visualize an interactive Leaflet map with Folium](#)
+ - [Problem 2: Visualize an interactive Bokeh-map](#problem-2-visualize-an-interactive-bokeh-map)
+ - [Problem 3: Visualize an interactive Leaflet map with Folium](#problem-3-visualize-an-interactive-leaflet-map-with-folium)
  - [Hints](#hints)
 
 ## Problem 0: Feedback for the first half of the course in Period II

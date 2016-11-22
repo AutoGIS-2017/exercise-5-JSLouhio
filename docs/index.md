@@ -7,9 +7,9 @@ In this page you should add links to your html maps that are located under your 
 Here is an example how to do it in MarkDown for user HTenkanen:
 
 ```
-[Link to my test map](automating-gis-processes.github.io/2016/Exercise-5-HTenkanen/map.html)
+[Link to my test map](https://automating-gis-processes.github.io/2016/Exercise-5-HTenkanen/map.html)
 ```
 
 **My maps**:
 
- - [Link to my test map](automating-gis-processes.github.io/2016/Exercise-5-HTenkanen/map.html)
+ - [Link to my test map](https://automating-gis-processes.github.io/2016/Exercise-5/map.html)

@@ -12,4 +12,4 @@ Here is an example how to do it in MarkDown for user HTenkanen:
 
 **My maps**:
 
- - [Link to my test map](https://automating-gis-processes.github.io/Exercise-5/map.html)
+ - [Link to my test map](https://automating-gis-processes.github.io/Exercise-5-HTenkanen/map.html)

@@ -10,7 +10,7 @@ This week we will practice how to create static and interactive maps in Python.
  - 50 % of point total if you return your solution within 3 weeks (due date 19.12.2016)
    - Full solution provided
 
-## Sections
+### Sections
 
  - [Problem 0: Feedback for the first half of the course in Period II](#problem-0-feedback-for-the-first-half-of-the-course-in-period-ii)
  - [Instructions for storing the maps](#instructions-for-storing-the-maps)

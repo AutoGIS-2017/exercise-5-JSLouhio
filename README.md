@@ -15,8 +15,7 @@ This week we will practice how to create static and interactive maps in Python.
  - [Problem 0: Feedback for the first half of the course in Period II](#problem-0-feedback-for-the-first-half-of-the-course-in-period-ii)
  - [Instructions for storing the maps](#instructions-for-storing-the-maps)
  - [Problem 1: Visualize a static map with multiple layers on it](#problem-1-visualize-a-static-map-with-multiple-layers-on-it)
- - [Problem 2: Visualize an interactive Bokeh-map](#problem-2-visualize-an-interactive-bokeh-map)
- - [Problem 3: Visualize an interactive Leaflet map with Folium](#problem-3-visualize-an-interactive-leaflet-map-with-folium)
+ - [Problem 2: Visualize an interactive map](#problem-2-visualize-an-interactive-map)
  - [Hints](#hints)
 
 ## Problem 0: Feedback for the first half of the course in Period II
@@ -31,9 +30,22 @@ to those maps in the specific Entrance page (index.md) that is also located unde
 
 ## Problem 1: Visualize a static map with multiple layers on it
 
-## Problem 2: Visualize an interactive Bokeh-map
+Play around with the data that was provided for you and used during the lesson and **create as interesting, good and beautiful STATIC map(s) that you can**. 
 
-## Problem 3: Visualize an interactive Leaflet map with Folium
+Upload your maps to the `docs` folder and create link to those map(s) in the `index.md` file. **Use your imagination**, you can e.g. do some calculations on the current datasets 
+or use also the analyses that we have done earlier in the course. 
+
+But notice that the main aim here is that you try to do the visualizations as best as you can, thus the subject what you are presenting is not important.  
+
+## Problem 2: Visualize an interactive map
+
+Play around with the data that was provided for you and used during the lesson and **create as interesting, good and beautiful INTERACTIVE map(s) 
+that you can** using either Bokeh or Folium or both. 
+
+Upload your maps to the `docs` folder and create link to those map(s) in the `index.md` file. **Use your imagination**, you can e.g. do some calculations on the current datasets 
+or use also the analyses that we have done earlier in the course. 
+
+But notice that the main aim here is that you try to do the visualizations as best as you can, thus the subject what you are presenting is not important.  
 
 ## Hints
 

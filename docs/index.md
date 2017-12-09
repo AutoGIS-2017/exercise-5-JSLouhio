@@ -21,3 +21,8 @@ Add here links to the maps that you have created:
 
  - [Extra distance by car](https://github.com/AutoGIS-2017/exercise-5-JSLouhio/blob/master/docs/p1carExtraDistance.png)
  - [extra distance by public transportation](https://github.com/AutoGIS-2017/exercise-5-JSLouhio/blob/master/docs/p1carExtraDistance.png)
+ 
+ ## Interactive maps
+ 
+ - [Extra distance by car](https://github.com/AutoGIS-2017/exercise-5-JSLouhio/blob/master/docs/carDistances.html)
+ 

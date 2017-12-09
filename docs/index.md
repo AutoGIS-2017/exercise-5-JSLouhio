@@ -19,7 +19,7 @@ Add here links to the maps that you have created:
 
 ## Static maps
 
- - [Extra distance by car](https://automating-gis-processes.github.io/exercise-5-JSLouhio/docs/
+ - [Extra distance by car](https:github.com/AutoGIS-2017/exercise-5-JSLouhio/docs/
 p1carExtraDistance.png)
- - [extra distance by public transportation](https://automating-gis-processes.github.io/exercise-5-JSLouhio/docs/
+ - [extra distance by public transportation](https:github.com/AutoGIS-2017/exercise-5-JSLouhio/docs/
 p1carExtraDistance.png)

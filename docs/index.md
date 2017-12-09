@@ -12,10 +12,7 @@ Here is an example how to do it in MarkDown for user HTenkanen:
 
 ## My maps
 
-Add here links to the maps that you have created:
-
- - [Link to test map](https://automating-gis-processes.github.io/exercise-5-HTenkanen/test_map.html)
- - Replace this with your link
+Add here links to the maps that I have created:
 
 ## Static maps
 
@@ -25,4 +22,5 @@ Add here links to the maps that you have created:
  ## Interactive maps
  
  - [Extra distance by car](https://github.com/AutoGIS-2017/exercise-5-JSLouhio/blob/master/docs/carDistances.html)
+ - [Extra distance by public transportation](https://github.com/AutoGIS-2017/exercise-5-JSLouhio/blob/master/docs/ptDistances.html)
  

@@ -17,3 +17,9 @@ Add here links to the maps that you have created:
  - [Link to test map](https://automating-gis-processes.github.io/exercise-5-HTenkanen/test_map.html)
  - Replace this with your link
 
+## Static maps
+
+ - [Extra distance by car](https://automating-gis-processes.github.io/exercise-5-JSLouhio/docs/
+p1carExtraDistance.png)
+ - [extra distance by public transportation](https://automating-gis-processes.github.io/exercise-5-JSLouhio/docs/
+p1carExtraDistance.png)

@@ -2,7 +2,7 @@
 
 ## My maps
 
-Add here links to the maps that I have created:
+here links to the maps that I have created:
 
 ## Static maps
 
@@ -14,5 +14,5 @@ Add here links to the maps that I have created:
  - [Extra distance by car](https://automating-gis-processes.github.io/exercise-5-JSLouhio/carDistances.html)
  - [Extra distance by public transportation](https://automating-gis-processes.github.io/exercise-5-JSLouhio/ptDistances.html)
  
- - [another try](https://github.com/AutoGIS-2017/exercise-5-JSLouhio/blob/master/docs/carDistances.html)
- - [and another](https://github.com/AutoGIS-2017/exercise-5-JSLouhio/blob/master/docs/ptDistances.html)
+ - [another try](https://autogis-2017.github.io/exercise-5-JSLouhio/carDistances.html)
+ - [and another](https://autogis-2017.github.io/exercise-5-JSLouhio/ptDistances.html)

@@ -45,4 +45,4 @@ Great looking map and a neat idea! Classes or their presentation could use some 
 ### Problem 2 (12/12 points)
 Really great map! And good job with the legend
 
-**Total: 20/20 points**
+**Total: 19,75/20 points**

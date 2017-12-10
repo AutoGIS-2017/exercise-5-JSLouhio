@@ -38,3 +38,11 @@ or use also the analyses that we have done earlier in the course.
 
 But notice that the main aim here is that you try to do the visualizations as best as you can, thus the subject what you are presenting is not important.  
 
+## Grading (by AK 10.12.)
+### Problem 1 (7,75/8 points)
+Great looking map and a neat idea! Classes or their presentation could use some refinement.
+
+### Problem 2 (12/12 points)
+Really great map! And good job with the legend
+
+**Total: 20/20 points**
